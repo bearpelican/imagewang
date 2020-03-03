@@ -1,4 +1,4 @@
-# nbdev template
+# Contrastive Learning experiments for ImageWang
 
-Use this template to more easily create your nbdev project.
+Inspired by [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 
